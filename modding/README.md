@@ -40,8 +40,6 @@ I'm a simple person and just use those applications:
 - NewPipe - a FOSS YouTube client
 - OAndBackupX - a FOSS backup utility
 - OpenKeyChain - an OpenPGP implementation for Android
-- OpenVPN - does this require an explanation? Alright, it's a VPN client
-- TorBrowser - hehe
 - Termux - a terminal emulator, probably the best I've ever used
 
 
