@@ -74,9 +74,9 @@ In some cases, like mine, it's safer having Magisk + microG rather than using th
 
 Btw, those are the modules I use with Magisk:
 
-- MagiskHidePropsConfig (I don't even know y I have this) - Let's you fix the device fingerprint for passing SafetyNet. N.B. doesn't work with microG
 - NanoDroid - microG stuff
 - Systemless Hosts - Let's you edit hosts file without tampering the fs. Useful with AdAway ^^
+- [GSync Adapters for Magisk by dreamwhite](https://github.com/dreamwhite/gsync_adapters_for_magisk/) - I still need the Google sync adapters so I made a quick magisk module. Feel free to contribute on it ^^
 
 # Applications that I suggest
 
