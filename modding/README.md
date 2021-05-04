@@ -77,6 +77,7 @@ Btw, those are the modules I use with Magisk:
 - NanoDroid - microG stuff
 - Systemless Hosts - Let's you edit hosts file without tampering the fs. Useful with AdAway ^^
 - [GSync Adapters for Magisk by dreamwhite](https://github.com/dreamwhite/gsync_adapters_for_magisk/) - I still need the Google sync adapters so I made a quick magisk module. Feel free to contribute on it ^^
+- [Advanced Charging Controller (ACC)](https://github.com/Magisk-Modules-Repo/acc), actually I'm using it since at the time of writing crDroid 7.5 on fajita has a broken Smart Charging feature that I had to disable. In any way, this module is perfect for my needs ^^
 
 # Applications that I suggest
 
